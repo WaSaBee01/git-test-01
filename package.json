@@ -1,0 +1,18 @@
+{
+  "name": "git-test-01",
+  "version": "1.0.0",
+  "description": "Test01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/WaSaBee01/git-test-01.git)"
+  },
+  "author": "Thang",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
